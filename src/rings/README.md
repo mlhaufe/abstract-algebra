@@ -1,6 +1,6 @@
 # Ring Theory
 
-The study of two operations: (*) (+) where (*) is the grouping operation of
+The study of two operations: `(*)` `(+)` where `(*)` is the grouping operation of
 Groupoid and (+) is an operation that describes how distribution of one
 operation over another occurs
 
